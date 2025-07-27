@@ -8,7 +8,7 @@
 
 <h3 align="center">📁 Acesso ao projeto</h3>
 
-<p align="center">Pode-se acessar o código fonte do projeto ou então baixá-lo utilizando: git clone https://github.com/giovannaoribeiro/ConversorDeMoedas.git</p>
+<h6 align="center">Pode-se acessar o código fonte do projeto ou então baixá-lo utilizando: git clone https://github.com/giovannaoribeiro/ConversorDeMoedas.git</h6>
 
 <h3 align="center">📂 Abrir e rodar o projeto</h3>
 
