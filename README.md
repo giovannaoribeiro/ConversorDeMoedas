@@ -1,6 +1,6 @@
 <h1 align="center">Desafio Oracle One</h1>
 
-<img width="4040" height="1308" alt="ConversorDeMoedas" src="https://github.com/user-attachments/assets/95d6bddf-7785-4e6c-9e81-6ca6c628548c" />
+<img width="4040" height="1308" alt="ConversorDeMoedas" src="https://github.com/user-attachments/assets/20515eaa-7c59-40af-ae00-ca5a21196e75" />
 
 <h2 align="center">Descrição do projeto</h2>
 
